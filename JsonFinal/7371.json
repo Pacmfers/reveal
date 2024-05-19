@@ -1,0 +1,35 @@
+{
+    "image": "https://raw.githubusercontent.com/Pacmfers/pacmfers/main/Images/7371.png",
+    "name": "Pacmfer #7371",
+    "description": "Pacmfers by Blatoshi",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green"
+        },
+        {
+            "trait_type": "type",
+            "value": "pac mfer"
+        },
+        {
+            "trait_type": "shirt",
+            "value": "hoodie down gray"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "buckteeth"
+        },
+        {
+            "trait_type": "hat under headphones",
+            "value": "headband blue-white"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "nerd glasses"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "green headphones"
+        }
+    ]
+}

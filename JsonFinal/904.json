@@ -1,0 +1,31 @@
+{
+    "image": "https://raw.githubusercontent.com/Pacmfers/pacmfers/main/Images/904.png",
+    "name": "Pacmfer #904",
+    "description": "Pacmfers by Blatoshi",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "space"
+        },
+        {
+            "trait_type": "type",
+            "value": "alien mfer"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "alien eyes"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "blue headphones"
+        },
+        {
+            "trait_type": "smoke",
+            "value": "pipe"
+        }
+    ]
+}

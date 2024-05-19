@@ -1,0 +1,43 @@
+{
+    "image": "https://raw.githubusercontent.com/Pacmfers/pacmfers/main/Images/3650.png",
+    "name": "Pacmfer #3650",
+    "description": "Pacmfers by Blatoshi",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "graveyard"
+        },
+        {
+            "trait_type": "type",
+            "value": "zombie mfer"
+        },
+        {
+            "trait_type": "420 watch",
+            "value": "sub rose"
+        },
+        {
+            "trait_type": "shirt",
+            "value": "collared shirt white"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile"
+        },
+        {
+            "trait_type": "long hair",
+            "value": "long hair black"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "zombie eyes"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "red headphones"
+        },
+        {
+            "trait_type": "smoke",
+            "value": "cig white"
+        }
+    ]
+}

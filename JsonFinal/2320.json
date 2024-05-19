@@ -1,0 +1,31 @@
+{
+    "image": "https://raw.githubusercontent.com/Pacmfers/pacmfers/main/Images/2320.png",
+    "name": "Pacmfer #2320",
+    "description": "Pacmfers by Blatoshi",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red"
+        },
+        {
+            "trait_type": "type",
+            "value": "charcoal mfer"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "buckteeth"
+        },
+        {
+            "trait_type": "hat under headphones",
+            "value": "knit chicago"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "purple shades"
+        },
+        {
+            "trait_type": "headphones",
+            "value": "black headphones"
+        }
+    ]
+}
